@@ -1,8 +1,12 @@
 Versao 3
 Edicação não salva
 <<<<<<< HEAD
+<<<<<<< HEAD
 Branch Pagina de Servicos
 =======
 
 Pagina de Galeria
+>>>>>>> Pagina-de-Galeria
+=======
+Branch Pagina de Servicos
 >>>>>>> Pagina-de-Galeria
